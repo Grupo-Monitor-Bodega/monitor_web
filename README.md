@@ -1,0 +1,1 @@
+# monitor_werehouse_slave
