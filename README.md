@@ -1,1 +1,1 @@
-# monitor_werehouse_slave
+# Web de recolección de datos monitor_bodega 
